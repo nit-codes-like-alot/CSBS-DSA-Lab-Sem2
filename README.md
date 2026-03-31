@@ -6,27 +6,8 @@ All the DSA lab programs I wrote during my second semester. Putting this up most
 
 ## What's in here
 
-**Arrays, Pointers & Strings**
-- Searching and sorting (linear, binary, bubble, selection, etc.)
-- Pointer arithmetic and operations
-- String manipulation programs
+**Lab 1**
 
-**Linear Data Structures**
-- Stacks and their applications (infix→postfix, etc.)
-- Queues (simple, circular, priority)
-- Linked Lists (singly, doubly, circular)
-
-**Non-Linear Data Structures**
-- Binary Trees + inorder/preorder/postorder traversals
-
-**YET TO COMPLETE**
-- Binary Search Trees
-- Balanced Trees (AVL)
-- Graph traversals — BFS and DFS
-
-**Hashing**
-- Hash table implementation
-- Collision handling (chaining, open addressing)
 
 ---
 
