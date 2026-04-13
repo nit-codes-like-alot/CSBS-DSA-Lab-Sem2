@@ -1,4 +1,4 @@
-// Linked Lists
+// 7-1 (a, b, c) Linked Lists - INSERTING
 
 #include <stdio.h>
 #include <stdlib.h>
