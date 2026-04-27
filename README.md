@@ -25,7 +25,7 @@ Though me & C are rivals for now, but I would keep exploring this language until
 
 - Language: C  
 - Compiler: GCC  
-- Editor: VS Code / [Programiz Online Compiler](https://www.programiz.com/c-programming/online-compiler/)
+- Editor: VS Code / [Programiz Online Compiler](https://www.programiz.com/c-programming/online-compiler/) / [One Code Online Compiler](https://onecompiler.com/c)
 
 Nothing fancy. Just `gcc filename.c -o output` and run (sometimes not even that).
 
